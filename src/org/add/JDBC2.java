@@ -43,10 +43,11 @@ public class JDBC2 {
 		
 		
 		
-		
 	}
 
-
+	private void add() {
+		System.out.println("wer");
+	}
 
 
 
