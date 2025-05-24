@@ -46,6 +46,9 @@ public class JDBC2 {
 		
 	}
 
+	private void add2() {
+		System.out.println("sdf");
+	}
 
 
 
