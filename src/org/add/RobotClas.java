@@ -12,6 +12,10 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
 public class RobotClas {
+	
+private void add2() {
+	System.out.println("bye");
+}
 
 	
 	public static void main(String[] args) throws AWTException {
